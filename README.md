@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, and learning new in programming
 - 🌱 I have expertise in Magento projects, and PHP frameworks like Laravel
 - 🌱 I have good working experience in Mern Stack.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building projects on MERN stack
 - 📫 How to reach me ... email me at mohd.salman0306@gmail.com
 
 <!---
