@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 ### Languages:
 |php|JS|Python3|Golang|
 |---|--|-------|------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="55" height="55"/>|https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg|https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg|https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="55" height="55" style="max-width: 100%;"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55" style="max-width: 100%;"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" style="max-width: 100%;"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="55" height="55" style="max-width: 100%;"/>|
